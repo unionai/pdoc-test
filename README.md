@@ -1,6 +1,6 @@
 # pdoc-test
 
-Experiment with building Union and Flytekit SDK docs using the `pdoc` tool
+Experiment with building Union and Flytekit SDK docs using the `pdoc`(https://pdoc.dev/) tool.
 
 ## Installation
 
