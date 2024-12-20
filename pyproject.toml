@@ -1,0 +1,20 @@
+[project]
+name = "pdoc-test"
+version = "0.1.0"
+description = "Experiment with building Union and Flytekit SDK docs using the pdoc tool"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-cloud-bigquery>=3.27.0",
+    "google-cloud-bigquery-storage>=2.27.0",
+    "pandas>=2.2.3",
+    "pdoc>=15.0.1",
+    "pillow>=11.0.0",
+    "prometheus-client>=0.21.1",
+    "pyarrow>=18.1.0",
+    "scikit-learn>=1.6.0",
+    "snowflake>=1.0.2",
+    "tensorflow>=2.18.0",
+    "torch>=2.5.1",
+    "union>=0.1.117",
+]
