@@ -21,3 +21,12 @@ uv run pdoc -o ./html union flytekit
 ```
 
 The generated HTML docs will be in `./html`.
+
+
+# Generate Module Trees (JSON)
+
+To dump the raw pdoc parsed docs output into JSON, just run
+
+```bash
+uv run pdoc_tree.py
+```
